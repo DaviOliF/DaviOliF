@@ -1,5 +1,17 @@
 ### Hello! I'm Davi ✌️
 
+<div align="center">
+  <img src="./img/bannerJinx.gif" alt="Banner" width="100%" />
+</div>
+
+
+<div align="right">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DaviOliF.DaviOliF"/>
+
+</div>
+
+
 ## 💻Languages and Frameworks Tools💻
 
 <a href="https://skillicons.dev">
@@ -39,3 +51,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-oliveira-380540332/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davimjvj1235@gmail.com)
+
