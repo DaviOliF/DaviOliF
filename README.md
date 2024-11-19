@@ -1,7 +1,8 @@
 ### Hello! I'm Davi ✌️
 
 <div align="center">
-  <img src="./img/bannerJinx.gif" alt="Banner" width="100%" />
+  <img src="![bannerJinx](https://github.com/user-attachments/assets/653b3956-66e1-4563-ad38-54ebbb2f93c5)
+" alt="Banner" width="100%" />
 </div>
 
 
