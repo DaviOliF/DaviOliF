@@ -9,7 +9,7 @@
 
 <div align="right">
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=DaviOliF.DaviOliF"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=daviOlife.daviOlife"/>
 
 </div>
 <div align="center">
@@ -37,7 +37,7 @@
 
 <br><br>
 
- ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviOliF&show_icons=true&theme=tokyonight)
+ ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviOlifeF&show_icons=true&theme=tokyonight)
 
 #
 
